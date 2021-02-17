@@ -1,7 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:300,400");
-@import url("https://fonts.googleapis.com/css?family=Metal+Mania") @font-face {
+@import url("https://fonts.googleapis.com/css?family=Metal+Mania");
+@font-face {
   font-family: "Booter - Zero Zero";
-  scr: url("Fonts/Booter - Zero Zero.ttf") format("ttf");
+  src: url("Fonts/Booter - Zero Zero.ttf") format("ttf");
   font-weight: normal;
   font-style: normal;
 }
